@@ -21,7 +21,7 @@ pip install sympy
 
 ## Installation
 ```bash
-git clone <repository_url>
+git clone https://github.com/magno101/pyPrimeGenerator.git
 cd pyPrimeGenerator
 pip install .
 ```
